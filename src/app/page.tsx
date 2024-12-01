@@ -17,7 +17,7 @@ const Blogging = () => {
 
         {/* Content */}
         <div className="absolute font-poppins lg:top-[25%] top-[20%] lg:left-[10%] lg:right-[10%] px-5 text-white text-center">
-          <h1 className="text-slate-900 font-extrabold text-5xl lg:text-6xl tracking-tight dark:text-white  text-transparent bg-clip-text bg-gradient-to-r from-blue-500 to-pink-500">
+          <h1 className="text-slate-900 font-extrabold text-4xl lg:text-6xl tracking-tight dark:text-white  text-transparent bg-clip-text bg-gradient-to-r from-blue-500 to-pink-500">
             Build Faster, Modern Websites with Tailwind CSS
           </h1>
           <p className="lg:text-[20px] text-[15px] font-normal lg:px-5 px-2 text-gray-400 py-10">
@@ -38,7 +38,7 @@ const Blogging = () => {
       {/* Introduction Section */}
       <section id='introduction' className="bg-[#1b263b] h-fit-content w-screen pb-20">
         <h1 className="lg:text-5xl text-5xl text-transparent bg-clip-text bg-gradient-to-r from-blue-500 to-pink-500 font-extrabold text-center lg:pb-16 pb-10 pt-20">Introduction</h1>
-        <p className="text-[16px] text-center px-5 md:px-10 lg:py-5 py-0 text-gray-400">
+        <p className="text-[15px] text-center px-5 md:px-10 lg:py-5 py-0 text-gray-400">
           "Creating a responsive website has become essential in today's world, where users access the web on a variety of devices. From desktops to smartphones, ensuring your layout adapts seamlessly to every screen size can feel overwhelming. But with Tailwind CSS, responsive design becomes intuitive and effortless. Tailwind’s mobile-first approach and utility-first classes make it easy to build websites that look great on any device. In this blog, we’ll explore some practical tips and tricks for mastering responsive design using Tailwind CSS. Whether you’re a beginner or an experienced developer, these insights will help you create stunning, responsive layouts."
         </p>
         {/* Author Section */}
@@ -75,7 +75,7 @@ const Blogging = () => {
         </span>
       </h1>
 
-      <div className="text-gray-400 text-[16px] lg:text-left text-center lg:px-0 px-2">
+      <div className="text-gray-400 text-[15px] lg:text-left text-center lg:px-0 px-2">
         <p>
           <span className="font-bold">Adam Wathan</span> has a background in{" "}
           <span className="font-bold">PHP</span> and{" "}

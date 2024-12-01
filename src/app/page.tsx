@@ -20,7 +20,7 @@ const Blogging = () => {
           <h1 className="text-slate-900 font-extrabold text-5xl lg:text-6xl tracking-tight dark:text-white  text-transparent bg-clip-text bg-gradient-to-r from-blue-500 to-pink-500">
             Build Faster, Modern Websites with Tailwind CSS
           </h1>
-          <p className="lg:text-[20px] text-[18px] font-normal lg:px-5 px-2 text-gray-400 py-10">
+          <p className="lg:text-[20px] text-[15px] font-normal lg:px-5 px-2 text-gray-400 py-10">
             <span className="text-[#00b4d8] font-extrabold">Tailwind CSS</span> is a utility-first CSS framework that allows developers to build
             <span className="font-bold"> modern, responsive designs </span>without writing traditional CSS. Unlike frameworks like
             <span className="text-[#00b4d8] font-extrabold"> Bootstrap</span>, which provide pre-designed components, Tailwind focuses on giving you
@@ -192,7 +192,7 @@ const Blogging = () => {
 
     <div className="bg-gray-700 flex flex-col justify-between items-center text-white font-semibold p-6 rounded-md shadow-lg">
       <p className="text-2xl font-extrabold mt-4  text-transparent bg-clip-text bg-gradient-to-r from-blue-500 to-pink-500 ">
-        Gradients and Backgrounds
+        Gradient and Background
       </p>
       <pre className="bg-gray-800 text-gray-200 text-base p-4 w-full overflow-auto rounded-md border border-gray-600 mt-4">
         {`<div class="h-64 w-full bg-gradient-to-r from-blue-500 to-green-500">

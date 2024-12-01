@@ -16,8 +16,8 @@ const Blogging = () => {
         <div className="absolute top-0 left-0 w-full h-full bg-gradient-to-t from-[#0077b6] to-[#000814] animate-pulse"></div>
 
         {/* Content */}
-        <div className="absolute font-poppins lg:top-[25%] top-[20%] lg:left-[10%] lg:right-[10%] px-5 text-white text-center">
-          <h1 className="text-slate-900 font-extrabold text-4xl lg:text-6xl tracking-tight dark:text-white  text-transparent bg-clip-text bg-gradient-to-r from-blue-500 to-pink-500">
+        <div className="absolute font-poppins lg:top-[25%] top-[20%] lg:left-[10%] lg:right-[10%] px-5 text-center">
+          <h1 className="font-extrabold text-4xl lg:text-6xl tracking-tight dark:text-white  text-transparent bg-clip-text bg-gradient-to-r from-blue-500 to-pink-500">
             Build Faster, Modern Websites with Tailwind CSS
           </h1>
           <p className="lg:text-[20px] text-[15px] font-normal lg:px-5 px-2 text-gray-400 py-10">

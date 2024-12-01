@@ -59,7 +59,7 @@ const Blogging = () => {
       </section>
      {/* About Section */}
      <section id="about" className="h-auto w-full bg-slate-700 py-10 text-center pb-20">
-  <h1 className="text-6xl md:text-5xl text-transparent bg-clip-text bg-gradient-to-r from-pink-500 to-blue-500 font-extrabold text-center pt-10">
+  <h1 className="text-5xl md:text-5xl text-transparent bg-clip-text bg-gradient-to-r from-pink-500 to-blue-500 font-extrabold text-center pt-10">
     About
   </h1>
   <div className="flex flex-col-reverse md:flex-row items-center w-full px-4 md:px-20 mt-10 gap-10">
@@ -106,7 +106,7 @@ const Blogging = () => {
 
 
   <section id='categories' className="max-h-fit w-screen bg-slate-600 overflow-hidden lg:pt-20 pt-16">
-  <h1 className="text-5xl text-transparent bg-clip-text bg-gradient-to-r from-blue-500 to-pink-500 font-extrabold text-center py-5">Important Topics</h1>
+  <h1 className="text-4xl text-transparent bg-clip-text bg-gradient-to-r from-blue-500 to-pink-500 font-extrabold text-center py-5">Important Topics</h1>
   {/* Grid Container */}
   <div className=' flex justify-center items-center'>
   <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-6 p-4 w-full max-w-6xl">
@@ -284,7 +284,7 @@ Demonstrate how Tailwind makes responsive design intuitive with its breakpoint p
 
 <section id='contact' className="h-screen w-screen bg-gradient-to-r from-blue-500 to-pink-500 flex items-center justify-center">
   <div className="bg-white/20 backdrop-blur-md p-8 rounded-lg shadow-lg w-full max-w-md mt-16">
-    <h1 className="text-5xl font-extrabold text-center text-gray-800 mb-6">Contact Us</h1>
+    <h1 className="text-4xl font-extrabold text-center text-gray-800 mb-6">Contact Us</h1>
     <form action="" className="space-y-6">
       {/* Username Input */}
       <div className="relative">

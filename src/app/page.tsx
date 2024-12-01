@@ -20,7 +20,7 @@ const Blogging = () => {
           <h1 className="text-slate-900 font-extrabold text-5xl lg:text-6xl tracking-tight dark:text-white  text-transparent bg-clip-text bg-gradient-to-r from-blue-500 to-pink-500">
             Build Faster, Modern Websites with Tailwind CSS
           </h1>
-          <p className="lg:text-[20px] text-[23px] font-normal lg:px-5 px-2 text-gray-400 py-10">
+          <p className="lg:text-[20px] text-[18px] font-normal lg:px-5 px-2 text-gray-400 py-10">
             <span className="text-[#00b4d8] font-extrabold">Tailwind CSS</span> is a utility-first CSS framework that allows developers to build
             <span className="font-bold"> modern, responsive designs </span>without writing traditional CSS. Unlike frameworks like
             <span className="text-[#00b4d8] font-extrabold"> Bootstrap</span>, which provide pre-designed components, Tailwind focuses on giving you

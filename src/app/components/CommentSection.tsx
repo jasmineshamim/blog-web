@@ -75,7 +75,7 @@ const CommentSection = () => {
 
   return (
     <div className="comment-section max-w-3xl mx-auto p-4 text-gray-800">
-      <h1 className="text-5xl font-bold pb-7 text-center text-gray-800">Comment Section</h1>
+      <h1 className="text-4xl font-bold pb-7 text-center text-gray-800">Comment Section</h1>
       
       <form onSubmit={handleSubmit}>
         <h2 className="text-xl font-bold text-gray-800">Favorite Topic</h2>

@@ -17,8 +17,8 @@ const Blogging = () => {
 
         {/* Content */}
         <div className="absolute font-poppins lg:top-[25%] top-[20%] lg:left-[10%] lg:right-[10%] px-5 text-white text-center">
-          <h1 className="text-slate-900 font-extrabold text-5xl lg:text-6xl tracking-tight dark:text-white">
-            Build Faster, Modern Websites with <span className=' text-transparent bg-clip-text bg-gradient-to-r from-blue-500 to-pink-500'>Tailwind CSS</span> 
+          <h1 className="text-slate-900 font-extrabold text-5xl lg:text-6xl tracking-tight dark:text-white  text-transparent bg-clip-text bg-gradient-to-r from-blue-500 to-pink-500">
+            Build Faster, Modern Websites with Tailwind CSS
           </h1>
           <p className="lg:text-[20px] text-[23px] font-normal lg:px-5 px-2 text-gray-400 py-10">
             <span className="text-[#00b4d8] font-extrabold">Tailwind CSS</span> is a utility-first CSS framework that allows developers to build

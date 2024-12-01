@@ -97,7 +97,7 @@ const Blogging = () => {
         height={270}
         width={270}
         alt="Profile"
-        className="rounded-full object-cover  max-w-xs md:max-w-sm"
+        className="rounded-full object-cover lg:h-[270px] lg:w-[270px] h-[200px] w-[200px] max-w-xs md:max-w-sm"
       />
     </div>
   </div>

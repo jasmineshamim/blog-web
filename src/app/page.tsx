@@ -36,7 +36,7 @@ const Blogging = () => {
       </div>
 
       {/* Introduction Section */}
-      <section id='introduction' className="bg-[#1b263b] h-fit-content w-screen pb-20">
+      <section id='introduction' className="bg-[#1b263b] h-fit-content h-fit-content w-screen pb-20">
         <h1 className="lg:text-5xl text-5xl text-transparent bg-clip-text bg-gradient-to-r from-blue-500 to-pink-500 font-extrabold text-center lg:pb-16 pb-10 pt-20">Introduction</h1>
         <p className="text-[15px] text-center px-5 md:px-10 lg:py-5 py-0 text-gray-400">
           "Creating a responsive website has become essential in today's world, where users access the web on a variety of devices. From desktops to smartphones, ensuring your layout adapts seamlessly to every screen size can feel overwhelming. But with Tailwind CSS, responsive design becomes intuitive and effortless. Tailwind’s mobile-first approach and utility-first classes make it easy to build websites that look great on any device. In this blog, we’ll explore some practical tips and tricks for mastering responsive design using Tailwind CSS. Whether you’re a beginner or an experienced developer, these insights will help you create stunning, responsive layouts."
@@ -111,7 +111,7 @@ const Blogging = () => {
   <div className=' flex justify-center items-center'>
   <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-6 p-4 w-full max-w-6xl">
     {/* Box Items */}
-    <div className="bg-gray-700 flex flex-col justify-between items-center text-white font-semibold p-6 rounded-md shadow-lg">
+    <div className="bg-[#1b263b] flex flex-col justify-between items-center text-white font-semibold p-6 rounded-md shadow-lg">
       <p className="text-2xl font-extrabold mt-4  text-transparent bg-clip-text bg-gradient-to-r from-blue-500 to-pink-500 ">
       Hover and Focus States
       </p>
@@ -131,7 +131,7 @@ const Blogging = () => {
       </p>
     </div>
 
-    <div className="bg-gray-700 flex flex-col justify-between items-center text-white font-semibold p-6 rounded-md shadow-lg">
+    <div className="bg-[#1b263b] flex flex-col justify-between items-center text-white font-semibold p-6 rounded-md shadow-lg">
       <p className="text-2xl font-extrabold mt-4  text-transparent bg-clip-text bg-gradient-to-r from-blue-500 to-pink-500 ">
       Grid Layout
       </p>
@@ -151,7 +151,7 @@ const Blogging = () => {
       </p>
     </div>
 
-    <div className="bg-gray-700 flex flex-col justify-between items-center text-white font-semibold p-6 rounded-md shadow-lg">
+    <div className="bg-[#1b263b] flex flex-col justify-between items-center text-white font-semibold p-6 rounded-md shadow-lg">
       <p className="text-2xl font-extrabold mt-4  text-transparent bg-clip-text bg-gradient-to-r from-blue-500 to-pink-500 ">
         Flexbox Layout
       </p>
@@ -172,7 +172,7 @@ const Blogging = () => {
     </div>
 
 
-    <div className="bg-gray-700 flex flex-col justify-between items-center text-white font-semibold p-6 rounded-md shadow-lg">
+    <div className="bg-[#1b263b] flex flex-col justify-between items-center text-white font-semibold p-6 rounded-md shadow-lg">
       <p className="text-2xl font-extrabold mt-4  text-transparent bg-clip-text bg-gradient-to-r from-blue-500 to-pink-500 ">
         Utility-First CSS Basics
       </p>
@@ -190,7 +190,7 @@ const Blogging = () => {
     </div> 
 
 
-    <div className="bg-gray-700 flex flex-col justify-between items-center text-white font-semibold p-6 rounded-md shadow-lg">
+    <div className="bg-[#1b263b] flex flex-col justify-between items-center text-white font-semibold p-6 rounded-md shadow-lg">
       <p className="text-2xl font-extrabold mt-4  text-transparent bg-clip-text bg-gradient-to-r from-blue-500 to-pink-500 ">
         Gradient and Background
       </p>
@@ -208,7 +208,7 @@ const Blogging = () => {
     </div>
 
 
-    <div className="bg-gray-700 flex flex-col justify-between items-center text-white font-semibold p-6 rounded-md shadow-lg">
+    <div className="bg-[#1b263b] flex flex-col justify-between items-center text-white font-semibold p-6 rounded-md shadow-lg">
       <p className="text-2xl font-extrabold mt-4  text-transparent bg-clip-text bg-gradient-to-r from-blue-500 to-pink-500 ">
       Animation with Tailwind
       </p>
@@ -222,7 +222,7 @@ const Blogging = () => {
       </p>
     </div>
 
-    <div className="bg-gray-700 flex flex-col justify-between items-center text-white font-semibold p-6 rounded-md shadow-lg">
+    <div className="bg-[#1b263b] flex flex-col justify-between items-center text-white font-semibold p-6 rounded-md shadow-lg">
 <p className="text-2xl font-extrabold mt-4  text-transparent bg-clip-text bg-gradient-to-r from-blue-500 to-pink-500 ">
   Responsive Design  
 </p>
@@ -239,7 +239,7 @@ Demonstrate how Tailwind makes responsive design intuitive with its breakpoint p
 </p>
 </div>
 
-    <div className="bg-gray-700 flex flex-col justify-between items-center text-white font-semibold p-6 rounded-md shadow-lg">
+    <div className="bg-[#1b263b] flex flex-col justify-between items-center text-white font-semibold p-6 rounded-md shadow-lg">
       <p className="text-2xl font-extrabold mt-4  text-transparent bg-clip-text bg-gradient-to-r from-blue-500 to-pink-500 ">
       Dark Mode Toggle
       </p>
@@ -256,7 +256,7 @@ Demonstrate how Tailwind makes responsive design intuitive with its breakpoint p
       </p>
     </div>
 
-    <div className="bg-gray-700 flex flex-col justify-between items-center text-white font-semibold p-6 rounded-md shadow-lg">
+    <div className="bg-[#1b263b] flex flex-col justify-between items-center text-white font-semibold p-6 rounded-md shadow-lg">
       <p className="text-2xl font-extrabold mt-4  text-transparent bg-clip-text bg-gradient-to-r from-blue-500 to-pink-500 ">
       Text Gradient
       </p>

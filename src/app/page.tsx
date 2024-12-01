@@ -38,7 +38,7 @@ const Blogging = () => {
       {/* Introduction Section */}
       <section id='introduction' className="bg-[#1b263b] h-fit-content w-screen pb-20">
         <h1 className="lg:text-5xl text-5xl text-transparent bg-clip-text bg-gradient-to-r from-blue-500 to-pink-500 font-extrabold text-center lg:pb-16 pb-10 pt-20">Introduction</h1>
-        <p className="text-[20px] text-center px-5 md:px-10 lg:py-5 py-0 text-gray-400">
+        <p className="text-[18px] text-center px-5 md:px-10 lg:py-5 py-0 text-gray-400">
           "Creating a responsive website has become essential in today's world, where users access the web on a variety of devices. From desktops to smartphones, ensuring your layout adapts seamlessly to every screen size can feel overwhelming. But with Tailwind CSS, responsive design becomes intuitive and effortless. Tailwind’s mobile-first approach and utility-first classes make it easy to build websites that look great on any device. In this blog, we’ll explore some practical tips and tricks for mastering responsive design using Tailwind CSS. Whether you’re a beginner or an experienced developer, these insights will help you create stunning, responsive layouts."
         </p>
         {/* Author Section */}
@@ -75,7 +75,7 @@ const Blogging = () => {
         </span>
       </h1>
 
-      <div className="text-gray-400 text-[20px] lg:text-left text-center lg:px-0 px-2">
+      <div className="text-gray-400 text-[18px] lg:text-left text-center lg:px-0 px-2">
         <p>
           <span className="font-bold">Adam Wathan</span> has a background in{" "}
           <span className="font-bold">PHP</span> and{" "}

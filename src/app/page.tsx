@@ -28,7 +28,7 @@ const Blogging = () => {
             <span className="text-[#00b4d8] font-extrabold"> custom designs efficiently</span>.
           </p>
           <Link href="#categories">
-            <button className="font-semibold bg-gradient-to-r from-blue-500 to-pink-500 hover:border-none lg:text-[15px] text-[17px] lg:py-3 lg:px-6 px-10 py-4 rounded hover:scale-110 ease-in-out duration-100">
+            <button className="font-semibold bg-gradient-to-r from-blue-500 to-pink-500 hover:border-none lg:text-[15px] text-[16px] lg:py-3 lg:px-6 px-7 py-3 rounded hover:scale-110 ease-in-out duration-100">
              Get Started
             </button>
           </Link>
